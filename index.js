@@ -2,6 +2,9 @@ module.exports = {
   extends: [
     'airbnb-base'
   ],
+  plugins: [
+    'promise'
+  ],
   parser: 'babel-eslint',
   rules: {
     'arrow-parens': [2, 'always'],

@@ -8,10 +8,11 @@
     "email": "stephen@hello10.com",
     "url": "https://hello10.com"
   },
-  "dependencies": {
+  "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
-    "eslint-plugin-import": "2.20.2"
+    "eslint-plugin-import": "2.20.2",
+    "eslint-plugin-promise": "4.2.1"
   },
   "keywords": [
     "eslint"
