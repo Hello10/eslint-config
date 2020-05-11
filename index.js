@@ -27,6 +27,7 @@ module.exports = {
     'import/no-cycle': [0],
     'import/prefer-default-export': [0],
     'lines-between-class-members': [0],
+    'max-classes-per-file': [0],
     'no-await-in-loop': [0],
     'no-console': [
       2,
